@@ -1,0 +1,59 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional npm cache directory
+.npm
+
+# Debugger files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Husky hooks (optional)
+.husky/_/
+
+# Coverage reports
+coverage/
+
+# Temporary files
+tmp/
+temp/
+
+# pnpm store (optional)
+.pnpm-store/
+
+# Runtime data
+*.seed
+
+# Optional eslint cache
+.eslintcache
+
+# npm package lock file
+package-lock.json
+
+# Optional: IDE/editor specific files
+*.iml
+*.ipr
+*.iws
+
+# TypeScript cache
+*.tsbuildinfo
